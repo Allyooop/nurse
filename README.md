@@ -29,3 +29,9 @@ large example:
 ```
 http://www.jobs.nhs.uk/xi/search_vacancy?page=1&max_result=100&keyword=nurse&client_id=121486&max_salary=ANY&navigator_fields=jobtype&navigator_fields=salary_match_type&navigator_fields=pay_band&navigator_fields=staff_group_code&navigator_fields=vac_restricted&navigator_fields=restricted_group&navigator_fields=suitable_for_newly_qualified&navigator_fields=pay_scheme_cd&action=search&resonly=1
 ```
+
+
+#### List of places that are moving to upgrade their recruitment profile
+
+https://jobs.leedsth.nhs.uk/
+
